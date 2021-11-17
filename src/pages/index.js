@@ -1,15 +1,15 @@
 import React from 'react';
 import Layout from '../components/layout';
-import { FaBlackTie } from 'react-icons/fa';
+import { HomeHeader, Banner } from '../utils';
+import img from '../images/bcg/homeBcg.jpg';
 import Seo from '../components/seo';
 
 const IndexPage = () => (
 	<Layout>
 		<Seo title="Home" />
-		<h3>
-			<FaBlackTie />
-			The Restaurant Site
-		</h3>
+		<HomeHeader img={img}>
+			<Banner title="Fine Dining" subtitle="65, MG Road-Bangalore, KA"></Banner>
+		</HomeHeader>
 	</Layout>
 );
 
