@@ -9,7 +9,7 @@ const About = () => {
 		<Layout>
 			<Seo title="About" />
 			<PageHeader img={aboutImg}>
-				<Banner title='about us' subtitle='a little about us'/>
+				<Banner title="about us" subtitle="a little about us" />
 			</PageHeader>
 		</Layout>
 	);
