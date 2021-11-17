@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { FaInstagram, FaTwitter, FaLinkedIn } from 'rect-icons/fa';
+import { FaInstagram, FaTwitter, FaLinkedin } from 'react-icons/fa';
 import styled from 'styled-components';
 import { styles } from '../../utils';
 
@@ -18,7 +18,7 @@ class NavbarIcons extends Component {
 			},
 			{
 				id: 2,
-				icon: <FaLinkedIn className="icon linkedin-icon" />,
+				icon: <FaLinkedin className="icon linkedin-icon" />,
 				path: ``,
 			},
 		],
@@ -46,10 +46,10 @@ const IconWrapper = styled.div`
 		color: #da5f53;
 	}
 	.twitter-icon{
-		color: #4edc;
+		color: #4edeec;
 	}
 	.linkedin-icon{
-		color: #af53;
+		color: #af5cc3;
 	}
 	.icon:hover{
 		color: ${styles.colors.mainYellow};

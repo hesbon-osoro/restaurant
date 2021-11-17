@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import styles from 'styled-components';
+import styled from 'styled-components';
 import { Link } from 'gatsby';
 import { styles } from '../../utils';
 class NavbarLinks extends Component {
@@ -26,7 +26,7 @@ class NavbarLinks extends Component {
 	}
 }
 
-const LinkWrapper = styles.ul`
+const LinkWrapper = styled.ul`
 	li{
 		list-style-type: none;
 	}
@@ -56,7 +56,7 @@ const LinkWrapper = styles.ul`
 		margin: 0 auto;
 
 		.nav-link:hover{
-			background: ${styles.color.mainWhite};
+			background: ${styles.colors.mainWhite};
 			padding: 0.5rem 1rem 0.5rem 1rem;
 		}
 	}

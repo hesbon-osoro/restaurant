@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import { createGlobalStyle } from 'styled-components';
-import Navbar from './globals/navbar/Navbar';
+import Navbar from './globals/Navbar';
 
 const Layout = ({ children }) => {
 	return (
