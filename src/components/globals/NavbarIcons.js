@@ -37,21 +37,21 @@ class NavbarIcons extends Component {
 }
 
 const IconWrapper = styled.div`
-	.icon{
+	.icon {
 		font-size: 1.3rem;
 		cursor: pointer;
 		${styles.transObject({})};
 	}
-	.instagram-icon{
+	.instagram-icon {
 		color: #da5f53;
 	}
-	.twitter-icon{
+	.twitter-icon {
 		color: #4edeec;
 	}
-	.linkedin-icon{
+	.linkedin-icon {
 		color: #af5cc3;
 	}
-	.icon:hover{
+	.icon:hover {
 		color: ${styles.colors.mainYellow};
 	}
 	display: none;
@@ -60,5 +60,5 @@ const IconWrapper = styled.div`
 		display: flex;
 		justify-content: space-around;
 	}
-`
+`;
 export default NavbarIcons;
