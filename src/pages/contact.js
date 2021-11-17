@@ -9,7 +9,7 @@ const Contact = () => {
 		<Layout>
 			<Seo title="Contact" />
 			<PageHeader img={contactImg}>
-				<Banner title='contact us' subtitle="Let's get in touch"/>
+				<Banner title="contact us" subtitle="Let's get in touch" />
 			</PageHeader>
 		</Layout>
 	);
