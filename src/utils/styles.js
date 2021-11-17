@@ -14,3 +14,7 @@ export const transObject = ({
 }) => {
 	return `transition:${property} ${time} ${type}`;
 };
+export const textSlanted = `font-family: 'Caveat', cursive;`;
+export const letterSpacing = ({ spacing = '0.1rem' }) => {
+	return `letter-spacing: ${spacing}`;
+};
