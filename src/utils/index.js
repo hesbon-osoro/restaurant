@@ -1,5 +1,8 @@
 import * as styles from './styles';
 import { HomeHeader, PageHeader } from './Header';
 import { Banner } from './Banner';
+import { BannerButton } from './BannerButton';
+import { Title } from './Title';
+import { Section } from './Section';
 
-export { Banner, HomeHeader, PageHeader, styles };
+export { Title, Section, BannerButton, Banner, HomeHeader, PageHeader, styles };
