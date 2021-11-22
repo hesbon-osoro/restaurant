@@ -10,6 +10,13 @@ module.exports = {
 	},
 	plugins: [
 		{
+			resolve: 'gatsby-plugin-snipcartv3',
+			options: {
+				apiKey: process.env.SNIPCART_API,
+				autopop: true,
+			},
+		},
+		{
 			resolve: 'gatsby-plugin-web-font-loader',
 			options: {
 				typekit: {
