@@ -2,6 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import { createGlobalStyle } from 'styled-components';
 import Navbar from './globals/Navbar';
+import Footer from '../components/globals/Footer'
 
 const Layout = ({ children }) => {
 	return (
@@ -9,6 +10,7 @@ const Layout = ({ children }) => {
 			<GlobalStyle />
 			<Navbar />
 			<main>{children}</main>
+			<Footer />
 		</>
 	);
 };
