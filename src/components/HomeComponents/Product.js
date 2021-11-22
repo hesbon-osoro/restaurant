@@ -9,7 +9,7 @@ const Product = ({ product }) => {
 	const { file } = product.img;
 	return (
 		<ProductWrapper>
-			<Img fixed={fixed} className="img" />
+			{/* <Img fixed={fixed} className="img" /> */}
 			<img src={file.url} alt="" className="img" />
 			<div className="text">
 				<div className="product-content">
