@@ -9,3 +9,6 @@
 - Node
 - GraphQL
 - SnipCart
+- Webhooks (Netlify)
+- Contentful CMS
+- Formspree
