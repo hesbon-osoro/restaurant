@@ -19,26 +19,26 @@
 ## Demo
 <h3> - Home Page</h3>
 
-[![restaurant.png](https://i.postimg.cc/C5krYtGw/restaurant.png)](https://postimg.cc/GT3xxXgf)
+[![restaurant.png](https://i.postimg.cc/C5krYtGw/restaurant.png)](https://restaurant-ecommerce.netlify.app/)
 
-[![restaurant0.png](https://i.postimg.cc/rmdYZzz0/restaurant0.png)](https://postimg.cc/9RhprmdC)
+[![restaurant0.png](https://i.postimg.cc/rmdYZzz0/restaurant0.png)](https://restaurant-ecommerce.netlify.app/)
 
-[![restaurant1.png](https://i.postimg.cc/zXT41L7T/restaurant1.png)](https://postimg.cc/nCc34h6L)
+[![restaurant1.png](https://i.postimg.cc/zXT41L7T/restaurant1.png)](https://restaurant-ecommerce.netlify.app/)
 
 <h3> - About </h3>
 
-[![restaurant2.png](https://i.postimg.cc/432S1p4R/restaurant2.png)](https://postimg.cc/hJxsDz72)
+[![restaurant2.png](https://i.postimg.cc/432S1p4R/restaurant2.png)](https://restaurant-ecommerce.netlify.app/)
 
 <h3> - Contact US </h3>
 
-[![restaurant3.png](https://i.postimg.cc/xd1ZH62P/restaurant3.png)](https://postimg.cc/JsSKCcty)
+[![restaurant3.png](https://i.postimg.cc/xd1ZH62P/restaurant3.png)](https://restaurant-ecommerce.netlify.app/)
 
 <h3> - Checkout </h3>
 
-[![restaurant4.png](https://i.postimg.cc/gcC15yVY/restaurant4.png)](https://postimg.cc/BtChPK7y)
+[![restaurant4.png](https://i.postimg.cc/gcC15yVY/restaurant4.png)](https://restaurant-ecommerce.netlify.app/)
 
 
-[![restaurant5.png](https://i.postimg.cc/NG9WpCrJ/restaurant5.png)](https://postimg.cc/3WhSwB1m)
+[![restaurant5.png](https://i.postimg.cc/NG9WpCrJ/restaurant5.png)](https://restaurant-ecommerce.netlify.app/)
 
 
-[![restaurant6.png](https://i.postimg.cc/rsr3szkX/restaurant6.png)](https://postimg.cc/303nb8Nn)
+[![restaurant6.png](https://i.postimg.cc/rsr3szkX/restaurant6.png)](https://restaurant-ecommerce.netlify.app/)
