@@ -15,8 +15,8 @@
 - Contentful CMS
 - Formspree
 
-
 ## Demo
+
 <h3> - Home Page</h3>
 
 [![restaurant.png](https://i.postimg.cc/C5krYtGw/restaurant.png)](https://restaurant-ecommerce.netlify.app/)
@@ -37,9 +37,7 @@
 
 [![restaurant4.png](https://i.postimg.cc/gcC15yVY/restaurant4.png)](https://restaurant-ecommerce.netlify.app/)
 
-
 [![restaurant5.png](https://i.postimg.cc/NG9WpCrJ/restaurant5.png)](https://restaurant-ecommerce.netlify.app/)
-
 
 [![restaurant6.png](https://i.postimg.cc/rsr3szkX/restaurant6.png)](https://restaurant-ecommerce.netlify.app/)
 
