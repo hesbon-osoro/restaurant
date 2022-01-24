@@ -6,7 +6,7 @@ module.exports = {
 		author: `@wazimuhb`,
 		siteUrl: 'https://restaurant-ecommerce.netlify.app/',
 		image: 'restaurant.png',
-		twitterUsername: `@wazimuhb`,
+		twitterUsername: `@wazimu_hb`,
 	},
 	plugins: [
 		{
